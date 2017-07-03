@@ -1,1 +1,1 @@
-#zadanie 8.6#
+# zadanie8.6 #
