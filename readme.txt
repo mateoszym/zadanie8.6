@@ -1,13 +1,3 @@
-Zadanie: Pierwszy skrypt
-
-Teraz ju¿ wiesz, jak zadeklarowaæ zmienn¹ i przechowywaæ dane, omówiliœmy te¿ jeden ze sposobów na pobranie danych od u¿ytkownika strony, a tak¿e na wyœwietlenie informacji za pomoc¹ alertu oraz w ulubionym miejscu ka¿dego developera, czyli devTools w zak³adce konsola.
-
-Podepnij plik JavaScript o dowolnej nazwie do swojej strony. Wyœwietl prompt z zapytaniem o imiê, a nastêpnie wyœwietl je z u¿yciem funkcji alert. Mo¿esz skorzystaæ z kodu dostêpnego w rozdziale. Dodatkowo wyœwietl ten sam tekst w konsoli.
-
-Stwórz przedstawion¹ strukturê plików. Przyda Ci siê ona w kolejnych zadaniach.
-
-W pliku index.html umieœæ kod zawarty w rozdziale.
-Podobnie powinieneœ post¹piæ z plikiem scripts.js
-Uruchom stronê w przegl¹darce.
-Zainicjuj repozytorium gita w g³ównym folderze projektu.
-Stwórz nowe repozytorium na GitHubie i wyœlij tam swój projekt. Pamiêtaj o udostêpnieniu go mentorowi na GitHubie. Link do projektu wstaw poni¿ej.
+StwÃ³rz zmienne potrzebne do wykonania dziaÅ‚ania (a * a) + (2 * a * b) - (b * b) , a jego wynik przypisz do zmiennej value. WyÅ›wietl wynik w konsoli, a nastÄ™pnie za pomocÄ… instrukcji warunkowej sprawdÅº, czy wynik jest dodatni czy ujemny, a potem wyÅ›wietl informacjÄ™ wynik dodatni lub wynik ujemny w konsoli.
+Dodaj instrukcjÄ™, ktÃ³ra sprawdzi, czy wynik jest rÃ³wny zero i wyÅ›wietli tÄ™ informacjÄ™.
+StwÃ³rz nowe repozytorium i wyÅ›lij tam swoje zadanie, a link do niego wklej poniÅ¼ej. PamiÄ™taj o udostÄ™pnieniu repozytorium swojemu mentorowi.
