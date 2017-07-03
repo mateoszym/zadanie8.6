@@ -1,1 +1,1 @@
-zadanie 8.6 H1
+zadanie 8.6H1
